@@ -46,6 +46,10 @@ const Login = () => {
 
      if(!loggedInUser.email && loggedInUser?.providerData.length){
       console.log('email is not directly provided',loggedInUser.providerData)
+      if(loggedInUser.providerData.uid){
+        loggedInUser.uid = loggedInUser.providerData[0].uid
+        setUser(loggedInUser)
+      }
      }
     })
     .catch(error =>{
