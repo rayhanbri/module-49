@@ -1,7 +1,7 @@
-1.Authentication  Authoraization
-2.what is encryption
+
+
 2. Octa, Firebase , OAuth
-3. firebase related queston module -8 12.58
+
 
 
 How to open a firebase project 
