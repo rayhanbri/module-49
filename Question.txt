@@ -2,6 +2,7 @@
 
 
 0.What is encryption
+######Note  - turning,into , so that. key part of , used to protect.   
 
 Encryption means turning readable data (plain text) into an unreadable form (cipher text) so that only authorized people or systems can read it.
 
@@ -11,7 +12,8 @@ It’s a key part of digital security — used to protect data like passwords, m
 
 1.Authentication vs  Authoraization
 
-
+#############Note - key , security , together , 
+authentication - process, who a user, confirming,real life exaple. 
 
 Authentication and Authorization are two key concepts in application security — they often work together
 
@@ -28,6 +30,7 @@ Fingerprint or Face ID
 Google / GitHub / Facebook Login (OAuth)
 
 🛂 Authorization (AuthZ)
+####### Note - do , resources and actions ,allowed.. Real Life example ;/// atuhorized to access
 Meaning:
 It’s the process of verifying what a user can do — what resources or actions they’re allowed to access after authentication.
 
