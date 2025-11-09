@@ -1,12 +1,11 @@
+2. Octa, Firebase , OAuth
+
+
 0.What is encryption
 
 Encryption means turning readable data (plain text) into an unreadable form (cipher text) so that only authorized people or systems can read it.
 
 It’s a key part of digital security — used to protect data like passwords, messages, payments, or files from hackers or unauthorized access.
-
-
-
-
 
 
 
